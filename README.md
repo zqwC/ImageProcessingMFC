@@ -28,7 +28,7 @@
  
  
 部分源码：
-{% highlight C++ %}    
+{% highlight C %}    
 #include "stdafx.h"
 #include "Dib.h"
 
