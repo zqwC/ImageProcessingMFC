@@ -2,10 +2,11 @@
    h1{color:#ff0000;text-align: center;}
    h2{text-align: center;}
 </style>
-<div>
-<a href="https://zhangqunwei.github.io/ImageProcessing/Release/Release.zip" title="测试环境为Visual Studio 2013" id="view-on-github" class="button"><span class="icon"></span>下载exe</a>    
-<a href="https://zhangqunwei.github.io/ImageProcessing/sourceZIP/ImageP.zip" title="测试环境为Visual Studio 2013" id="view-on-github" class="button"><span class="icon"></span>下载项目源码</a>         
-</div >
+<section id="downloads" class="clearfix">
+<a href="https://zhangqunwei.github.io/ImageProcessing/Release/Release.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span class="icon"></span>下载exe</a>    
+<a href="https://zhangqunwei.github.io/ImageProcessing/sourceZIP/ImageP.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span class="icon"></span>下载项目源码</a>      
+<hr>
+</section> 
 
 
 # 基于MFC的图像处理软件
