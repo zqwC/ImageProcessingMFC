@@ -3,8 +3,8 @@
    h2{text-align: center;}
 </style>
 <section id="downloads" class="clearfix">
-<a href="https://zhangqunwei.github.io/ImageProcessing/Release/Release.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span class="icon"></span>下载exe</a>    
-<a href="https://zhangqunwei.github.io/ImageProcessing/sourceZIP/ImageP.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span class="icon"></span>下载项目源码</a>      
+<a href="https://zhangqunwei.github.io/ImageProcessing/Release/Release.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span>下载exe</span></a>    
+<a href="https://zhangqunwei.github.io/ImageProcessing/sourceZIP/ImageP.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span>下载项目源码</span></a>      
 <hr>
 </section> 
 
