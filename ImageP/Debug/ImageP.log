@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Show.cpp
+  MainFrm.cpp
+  ImagePView.cpp
+  ImagePDoc.cpp
+  ImageP.cpp
+  Dib.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\God-is-fool\Desktop\图像处理\ImageP\Debug\ImageP.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ImageP.vcxproj -> C:\Users\God-is-fool\Desktop\图像处理\ImageP\Debug\ImageP.exe
