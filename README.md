@@ -28,7 +28,7 @@
  
  
 部分源码：
-```c++
+{% highlight C++ %}    
 #include "stdafx.h"
 #include "Dib.h"
 
@@ -124,5 +124,4 @@ void CDib::Template3x3(int arr[],double coef)
 		SetPixel(j + 1, i + 1, RGB(sum, sum, sum));
 	}
 }
-
-```
+{% endhighlight %}
