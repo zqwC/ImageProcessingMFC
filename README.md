@@ -3,8 +3,8 @@
    h2{text-align: center;}
 </style>
 <section id="downloads" class="clearfix">
-<a href="https://zhangqunwei.github.io/ImageProcessing/Release/Release.zip" title="测试环境为Visual Studio 2013" style="float:left;" id="view-on-github" class="button"><span>下载exe</span></a>    
-<a href="https://zhangqunwei.github.io/ImageProcessing/sourceZIP/ImageP.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span>下载项目源码</span></a>
+<a href="https://zhangqunwei.github.io/ImageProcessingMFC/Release/Release.zip" title="测试环境为Visual Studio 2013" style="float:left;" id="view-on-github" class="button"><span>下载exe</span></a>    
+<a href="https://zhangqunwei.github.io/ImageProcessingMFC/sourceZIP/ImageP.zip" title="测试环境为Visual Studio 2013" style="float:right;" id="view-on-github" class="button"><span>下载项目源码</span></a>
 </section> 
 
 
@@ -14,7 +14,7 @@
 
 ## GUI界面
   
-  ![UI界面](https://zhangqunwei.github.io/ImageProcessing/gui.bmp)
+  ![UI界面](https://zhangqunwei.github.io/ImageProcessingMFC/gui.bmp)
 
 ## MFC做图像处理的若干缺点
 1.MFC对图像处理的支持基本为零，需要自己写DIB图像格式的底层接口。<br>
